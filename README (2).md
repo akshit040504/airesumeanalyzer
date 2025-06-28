@@ -1,8 +1,8 @@
 # 🌟 AI Resume Analyzer
 
-**Developed by:** [Your Name]  
-📧 [Your Email] • 📍 [Your Location]  
-🔗 [GitHub Profile](#) | [LinkedIn Profile](#)
+**Developed by:** AKSHIT SINGH  
+📧 [akshitsinghh.2504@gmail.com] • 📍 [Bhopal,India]  
+🔗 [Github Profile](#) | [LinkedIn Profile](#)
 
 ---
 
