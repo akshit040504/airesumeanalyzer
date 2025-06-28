@@ -151,11 +151,11 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 About Me
 
-Hi, I'm **[Your Name]**, a [Your Role, e.g., Full-Stack Developer / Computer Science Student] at [Your Institution]. I'm passionate about leveraging AI and full-stack technology to solve real-world problems.  
+Hi, I'm **Akshit Singh**, a Full-Stack Developer at VIT BHOPAL UNIVERSITY. I'm passionate about leveraging AI and full-stack technology to solve real-world problems.  
 When I’m not coding, you’ll find me contributing to open-source projects, exploring new tech, or building impactful tools for the community.
 
-📞 [Your Phone Number]  
-📧 [Your Email]  
+📞 9026634877  
+📧 akshitsinghh.2504@gmail.com  
 🔗 [GitHub Profile](#) | [LinkedIn Profile](#)
 
 ---
@@ -163,6 +163,6 @@ When I’m not coding, you’ll find me contributing to open-source projects, ex
 ## 📬 Contact
 
 Interested in collaborating or learning more about the project?  
-Feel free to reach out via [LinkedIn](#) or email at [Your Email].  
+Feel free to reach out via [LinkedIn](#)  
 
 Let’s build something amazing together! 💡
